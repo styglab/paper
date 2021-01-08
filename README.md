@@ -4,4 +4,4 @@
 * Yin et al. **Center-based 3D Object Detection and Tracking.** 19 Jun 2020.
 
 ## 3D Tracking
-* Zhou et al. **Tracking objects as points.** ECCV, 2020.
+* Zhou et al. **Tracking objects as points.** ECCV, 2020. :star:
