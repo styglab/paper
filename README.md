@@ -1,4 +1,5 @@
 ## 2D Detection
+* Law et al. **Cornernet: Detecting objects as paired keypoints.** ECCV, 2018.
 * Zhou et al. **Objects as points.** 2019.
 
 ## 3D Detection
