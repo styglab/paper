@@ -1,7 +1,7 @@
-## 2D Object Detection
+## 2D Detection
 * Zhou et al. **Objects as points.** 2019.
 
-## 3D Object Detection
+## 3D Detection
 * Zhou et al. **Voxelnet: End-to-end learning for point cloud based 3d object detection.** CVPR, 2018.
 * Lang et al. **Pointpillars: Fast encoders for object detection from point clouds.** CVPR, 2019.
 * Yin et al. **Center-based 3D Object Detection and Tracking.** 2020. :star:
